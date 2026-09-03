@@ -33,9 +33,7 @@
 .ul-element {
   display: flex;
 }
-body {
-  height: 3000px;
-}
+
 
 /* chat image example */
 .chat-image {
